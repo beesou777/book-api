@@ -1,0 +1,42 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    height: 70px;
+    width: 100%;
+    align-items: center;
+    color: aliceblue;
+    font-size: 1.3rem;
+    text-transform: capitalize;
+    font-weight: 700;
+    box-shadow: 0 4px 20px 0 rgb(90, 77, 77);
+}
+.text{
+    color: orange;
+}
+.brand{
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
+.search{
+    padding-right: 15px;
+}
+#search{
+    height: 20px;
+    padding: 21px 15px;
+    outline: 0;
+    border: none;
+}
+.btn{
+    padding: 14px 15px;
+    background-color: orange;
+    color: aliceblue;
+    outline: 0;
+    border: none;
+    cursor: pointer;
+}
+.btn:hover{
+    transform: scale(0.98);
+
+}
