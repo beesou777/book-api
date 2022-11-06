@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beesou777/book-api/static/css/main.0a1ee28a.css",
+    "main.js": "/beesou777/book-api/static/js/main.59071a48.js",
+    "index.html": "/beesou777/book-api/index.html",
+    "main.0a1ee28a.css.map": "/beesou777/book-api/static/css/main.0a1ee28a.css.map",
+    "main.59071a48.js.map": "/beesou777/book-api/static/js/main.59071a48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a1ee28a.css",
+    "static/js/main.59071a48.js"
+  ]
+}
